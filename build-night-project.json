@@ -1,5 +1,5 @@
 {
-  "project-name": "<FILL THIS>",
-  "project-oneliner": "<FILL THIS>",
-  "project-description": "<FILL THIS>"
+  "project-name": "LineUp",
+  "project-oneliner": "From a Spanish-speaking athlete's profile to coach-ready English outreach.",
+  "project-description": "LineUp is an AI operations layer for international soccer recruitment agencies. It turns a Spanish-speaking athlete's profile into a ranked list of matching U.S. college programs, personalized English coach emails, and a clean English one-pager, shown side by side with the Spanish profile. Everything runs behind a human-approved, compliance-aware outreach pipeline (parental-consent gate, manual NCAA eligibility review). Built with Next.js, TypeScript, Tailwind and shadcn/ui, backed by PostgreSQL (Drizzle ORM) and S3-compatible storage; generation is deterministic by default with an optional LLM behind a flag."
 }
